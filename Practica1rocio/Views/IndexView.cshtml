@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "IndexView";
+}
+
+<html>
+<head>
+    <title>
+        Hola
+    </title>
+</head>
+    <body>
+        @foreach (var item in Model.Persona)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.Edad</td>
+                <td>
+                    <button class="btn btn-xs btn-primary" role="button"><i class="glyphicon glyphicon-credit-card"></i> <span>Ver</span></button>
+                </td>
+            </tr>
+    </body>
+</html>

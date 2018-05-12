@@ -1,0 +1,2 @@
+c:\users\rocio\source\repos\Practica1rocio\Practica1rocio\obj\Debug\Practica1rocio.csprojResolveAssemblyReference.cache
+c:\users\rocio\source\repos\Practica1rocio\Practica1rocio\obj\Debug\Practica1rocio.csproj.CoreCompileInputs.cache
